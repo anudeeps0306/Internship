@@ -1,0 +1,53 @@
+[
+    {
+      "name": "iPhone 13 Pro",
+      "description": "The latest flagship smartphone from Apple",
+      "price": 1099.99
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "description": "A high-end Android smartphone by Samsung",
+      "price": 899.99
+    },
+    {
+      "name": "Sony PlayStation 5",
+      "description": "The next-generation gaming console from Sony",
+      "price": 499.99
+    },
+    {
+      "name": "MacBook Pro 16",
+      "description": "Powerful laptop with a stunning Retina display",
+      "price": 2399.99
+    },
+    {
+      "name": "Canon EOS R5",
+      "description": "Mirrorless camera for professional photographers",
+      "price": 3899.99
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "description": "Wireless noise-canceling headphones",
+      "price": 299.99
+    },
+    {
+      "name": "Nintendo Switch",
+      "description": "Versatile gaming console for home and on-the-go",
+      "price": 299.99
+    },
+    {
+      "name": "Dyson V11 Absolute",
+      "description": "Cordless vacuum cleaner with powerful suction",
+      "price": 599.99
+    },
+    {
+      "name": "Fitbit Versa 3",
+      "description": "Smartwatch with built-in GPS and health tracking features",
+      "price": 229.99
+    },
+    {
+      "name": "Amazon Echo Dot",
+      "description": "Smart speaker with Alexa voice assistant",
+      "price": 49.99
+    }
+  ]
+  
